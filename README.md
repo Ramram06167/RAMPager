@@ -1,5 +1,19 @@
 # RAMPager
 
-Ramirez
-Exclamador
-Gucela
+
+
+
+
+
+
+
+planes
+foods
+travel
+computer
+foods
+movies
+cars
+drones
+shoes
+tshirts
